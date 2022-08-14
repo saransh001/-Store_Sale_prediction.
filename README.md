@@ -1,1 +1,2 @@
-# -Store_Sale_prediction.
+# Store_Sale_prediction
+Prediction Sales
